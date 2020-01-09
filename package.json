@@ -1,0 +1,20 @@
+{
+  "name": "js-basics-2",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code - Start the Live Server - Open the Console tab on Chrome's DevTools",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leechongren/js-basics-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leechongren/js-basics-2/issues"
+  },
+  "homepage": "https://github.com/leechongren/js-basics-2#readme"
+}
